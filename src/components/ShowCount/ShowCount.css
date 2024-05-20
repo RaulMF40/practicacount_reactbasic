@@ -1,0 +1,22 @@
+/* ShowCount.css */
+.count-container {
+  background: #ddd1ae;
+  padding: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 1rem;
+}
+
+.count-container h2 {
+  font-size: 1.5rem;
+  margin: 0;
+  transition: color 0.3s ease;
+}
+
+.positive {
+  color: #4caf50;
+}
+
+.negative {
+  color: #f44336;
+}
